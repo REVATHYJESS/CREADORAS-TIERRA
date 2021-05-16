@@ -1,2 +1,2 @@
 # CREADORAS-TIERRA
-Event portal for college
+We can create a event portal for college using python which makes each and every event more exclusive through new programmingtechnique
