@@ -7,7 +7,7 @@ An Events Management System is a full-stack Django web application that offers a
 A key benefit of using Event Portal is its ability to track the relationships that exist in an extremely decoupled event-driven architecture (EDA). It enables the reuse of schemas and events, and graphically presents the relationships that exist between applications and events. 
 ## Team members
 1. SHAMA THOMAS [https://github.com/SHAMATHOMAS]
-2. SRAVANA JINEESH [Embed perosnal github URL]
+2. SRAVANA JINEESH [https://github.com/SRAVANA-JINESHj]
 ## Team Id
 BFH/rec77aryyAo5WZGGo/2021
 ## Link to product walkthrough
@@ -17,7 +17,7 @@ https://drive.google.com/file/d/1yNyERJPd1F7MtHxFaOz3pS5LEMfX70zW/view
 2. In admin page it includes features like:
           Login and Logout – By default the admin need to login first to access the system and also the admin can logout.
           Manage Events Booking – For the events booking, the admin can view all the user who registered for the booking events.
-          Manage Events – For the events, the admin can add, update, delete events information
+          Manage Events – For the events, the admin can add, update, delete events information.    
    In registration page it include freatura like:
           Registration – the user need to register first to have an account before he/she can login in the system
           Login – the user need to login first to access the system.
@@ -32,7 +32,7 @@ HTML - HTML5
 CSS 
 JavaScript
 ## How to configure
-git clone<https://github.com/REVATHYJESS/CREADORAS-TIERRA/edit/main>
+git clone<https://github.com/REVATHYJESS/CREADORAS-TIERRA.git>
 ## How to Run
-1.run
+1.run  
 2.python manage.py runserver
