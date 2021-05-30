@@ -8,6 +8,7 @@ A key benefit of using Event Portal is its ability to track the relationships th
 ## Team members
 1. SHAMA THOMAS [https://github.com/SHAMATHOMAS]
 2. SRAVANA JINEESH [https://github.com/SRAVANA-JINESHj]
+3. REVATHY JESS [https://github.com/REVATHYJESS]
 ## Team Id
 BFH/rec77aryyAo5WZGGo/2021
 ## Link to product walkthrough
@@ -28,11 +29,7 @@ Username: nisargah
 Password: 2021
 ## Libraries used
 django - 3.1
-HTML - HTML5
-CSS 
-JavaScript
 ## How to configure
-git clone<https://github.com/REVATHYJESS/CREADORAS-TIERRA.git>
+git clone <https://github.com/REVATHYJESS/CREADORAS-TIERRA.git>
 ## How to Run
-1.run  
-2.python manage.py runserver
+python manage.py runserver
