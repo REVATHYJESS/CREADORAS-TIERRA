@@ -32,4 +32,4 @@ django - 3.1
 ## How to configure
 git clone <https://github.com/REVATHYJESS/CREADORAS-TIERRA.git>
 ## How to Run
-python manage.py runserver
+'''python manage.py runserver'''
