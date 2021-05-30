@@ -6,9 +6,9 @@ An event portal is a solution that lets people design, create, discover, catal
 An Events Management System is a full-stack Django web application that offers a clean, descriptive, and interactive user interface for viewing and registering for various events. It has responsive pages and tabs for viewing, handling, and enrolling in various events.
 A key benefit of using Event Portal is its ability to track the relationships that exist in an extremely decoupled event-driven architecture (EDA). It enables the reuse of schemas and events, and graphically presents the relationships that exist between applications and events. 
 ## Team members
-1. SHAMA THOMAS [https://github.com/SHAMATHOMAS]
-2. SRAVANA JINEESH [https://github.com/SRAVANA-JINESHj]
-3. REVATHY JESS [https://github.com/REVATHYJESS]
+1. [SHAMA THOMAS](https://github.com/SHAMATHOMAS)
+2. [SRAVANA JINEESH](https://github.com/SRAVANA-JINESHj0)
+3. [REVATHY JESS](https://github.com/REVATHYJESS)
 ## Team Id
 BFH/rec77aryyAo5WZGGo/2021
 ## Link to product walkthrough
