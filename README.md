@@ -1,6 +1,6 @@
 ![BFH Banner](https://trello-attachments.s3.amazonaws.com/542e9c6316504d5797afbfb9/542e9c6316504d5797afbfc1/39dee8d993841943b5723510ce663233/Frame_19.png)
 # Project Name
-NISARGAH 2021
+NISARGAH 2021  
 An event portal is a solution that lets people design, create, discover, catalog, share, visualize, secure, and manage events and event-driven applications. Here this is a project which shows a new method of our needs.We are presenting our project about the creation of an event portal in our own college using simple python language which is very useful for our coming generation.This Event Management System Project in Django created using Python Django Framework on the backend and HTML, CSS, and JavaScript on the frontend. It has user authentication features for login/registration, as well as a user dashboard for displaying and registering for events.
 
 An Events Management System is a full-stack Django web application that offers a clean, descriptive, and interactive user interface for viewing and registering for various events. It has responsive pages and tabs for viewing, handling, and enrolling in various events.
